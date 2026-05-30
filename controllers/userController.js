@@ -1,5 +1,5 @@
 import axios from "axios";
-import User from "../model/userModel.js";
+import User from "../models/userModel.js";
 
 const userController = {};
 

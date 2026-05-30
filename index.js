@@ -1,7 +1,7 @@
 import express from 'express';
 import dotenv from 'dotenv'
 import configureDB from './config/db.js';
-import userController from './controller/userController.js';
+import userController from './controllers/userController.js';
 dotenv.config();
 
 const PORT = process.env.PORT;
