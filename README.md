@@ -1,0 +1,1 @@
+An application demonstrating server to server communication.
